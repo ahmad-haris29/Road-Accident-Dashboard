@@ -57,17 +57,20 @@
        
 
 💡 Recommendations :
-    • Infrastructure Improvements: Focus on enhancing safety measures on single carriageways and urban areas.
-    • Awareness Campaigns: Educate drivers about the dangers of driving in poor weather or at night.
-    • Traffic Monitoring: Deploy additional surveillance and monitoring in accident-prone areas to reduce risks.
+
+   • Infrastructure Improvements: Focus on enhancing safety measures on single carriageways and urban areas.
+   • Awareness Campaigns: Educate drivers about the dangers of driving in poor weather or at night.
+   • Traffic Monitoring: Deploy additional surveillance and monitoring in accident-prone areas to reduce risks.
 
 🗂 Contact :
-   • Name: Ahmad Haris
+
+  • Name: Ahmad Haris
   • LinkedIn: https://www.linkedin.com/in/ahmad-haris-524bb5281/
 
 ⭐ Acknowledgments :
-    • This project was inspired by my passion for  data analytics and road safety. A big thank you to the open-source community and government agencies for providing the 
-       data and tools to make this analysis possible!   
+
+   • This project was inspired by my passion for  data analytics and road safety. A big thank you to the open-source community and government agencies for providing the 
+      data and tools to make this analysis possible!   
 
 
 
