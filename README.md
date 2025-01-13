@@ -5,17 +5,20 @@
 
    This project analyzes road accident data to uncover key insights and provide actionable recommendations for improving road safety. The analysis was conducted entirely 
    using Excel with the help of Power Query and Power Pivot.
+
    
 
 📌 Project Overview :
 
    In this project, I extracted, transformed, and visualized road accident data using Excel to identify trends, high-risk areas, and patterns related to accident severity. 
    The dashboard serves as a tool to aid decision-making for policymakers and road safety authorities by highlighting key metrics and trends.
+
   
 
 🛠 Technologies Used :
 
    Excel: To preprocess, analyze, and validate the data using built-in tools like Power Query and Power Pivot.
+
 
 
 🎯 Objectives :
@@ -25,6 +28,7 @@
    • Identify high-risk factors like vehicle types, road types, and weather conditions.
 
    • Provide a clear summary of key performance indicators (KPIs) to drive decision-making.
+
 
 
 📊 Key Performance Indicators (KPIs) :
@@ -43,6 +47,7 @@
        Rural: 8,200
        Urban: 15,100
        
+       
 
 🔍 Key Insights :
 
@@ -54,6 +59,7 @@
        Road Type:Single carriageways are the most accident-prone, with 18.9K casualties.
        Road Surface: Dry roads see the highest number of accidents, but wet conditions also contribute significantly.
        Light Conditions: Most accidents occur in darkness (16.3K casualties).
+
        
 
 💡 Recommendations :
@@ -65,6 +71,7 @@
 🗂 Contact :
 
   • Name: Ahmad Haris
+  
   • LinkedIn: https://www.linkedin.com/in/ahmad-haris-524bb5281/
 
 ⭐ Acknowledgments :
