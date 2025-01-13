@@ -48,9 +48,9 @@
 
 🔍 Key Insights :
 
-   • Accident Trends -
-      ○ Accident frequency peaks during certain months, as shown in the monthly trend analysis.
-      ○ Urban areas account for the majority of casualties, with significantly higher numbers than rural areas.
+   • Accident Trends 
+       Accident frequency peaks during certain months, as shown in the monthly trend analysis.
+       Urban areas account for the majority of casualties, with significantly higher numbers than rural areas.
       
    • High-Risk Factors -
       ○ Road Type: Single carriageways are the most accident-prone, with 18.9K casualties.
