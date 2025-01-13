@@ -2,7 +2,7 @@
   # Road Accident Dashboard
  
 
-#🚗 Road Accident Dashboard : 
+🚗 Road Accident Dashboard : 
 
    This project analyzes road accident data to uncover key insights and provide actionable recommendations for improving road safety. The analysis was conducted entirely   
    using Excel with the help of Power Query and Power Pivot.
